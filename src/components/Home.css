@@ -1,0 +1,21 @@
+.homecontainer{
+    width: 100vw;
+    height: 100vh;
+    
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(231, 231, 231);
+    position: absolute;
+  
+    top: 7%;
+    left: 0;
+}
+.content{
+    align-items: center;
+    text-align: center;
+    width: 50rem;
+    font-size: 2rem;
+
+}
